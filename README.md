@@ -60,6 +60,5 @@ Great choice! Here’s how you can make Chicken Biryani:
 ## Contributing
 Feel free to contribute by adding more recipes, improving the script, or optimizing ingredient matching.
 
-## License
-This project is licensed under the MIT License.
+
 
